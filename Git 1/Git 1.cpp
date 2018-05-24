@@ -8,6 +8,8 @@ using namespace std;
 int main()
 {
 	cout << "29.06.1998";
+	cout << "Веталь";
+
     return 0;
 }
 
